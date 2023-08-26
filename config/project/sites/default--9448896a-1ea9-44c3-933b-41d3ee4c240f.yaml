@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: hrbdev
+primary: true
+siteGroup: 31d5c20a-78a5-44cd-b06d-0d0f56058172 # hrbdev
+sortOrder: 1

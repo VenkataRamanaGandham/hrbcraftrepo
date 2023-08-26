@@ -1,0 +1,44 @@
+dateModified: 1693063772
+email:
+  fromEmail: admin@gmail.com
+  fromName: hrbdev
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0bd5c76d-2330-49ac-94cc-bf3d444b7b5b: Description # Description
+    1d7119b9-bd21-4ecd-ac60-87295742e834: PostTitle # PostTitle
+    5dc989d4-616c-4546-96c2-4850add0fb46: Common # Common
+    6e0db439-7dd7-4be9-aac1-0a331b66d574: BlogPosts # BlogPosts
+    31d5c20a-78a5-44cd-b06d-0d0f56058172: hrbdev # hrbdev
+    483593a8-b117-4602-a332-d6982e6c28d8: PostId # PostId
+    9448896a-1ea9-44c3-933b-41d3ee4c240f: hrbdev # hrbdev
+    d20f6f7d-e21e-4e04-9906-39b940cdfba3: Posts # Posts
+    df6ced21-7500-4eae-b7ba-bd0668a28801: BlogPosts # BlogPosts
+plugins:
+  element-api:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  webhooks:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.4.0
+    settings:
+      disableAllWebhooks: false
+      initialDelay: null
+      maxAttempts: 3
+      maxDepth: 10
+      purgeDuration: 604800
+      retryDelay: 120
+system:
+  edition: solo
+  live: true
+  name: hrbdev
+  schemaVersion: 4.5.0.3
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

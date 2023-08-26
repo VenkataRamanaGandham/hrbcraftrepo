@@ -1,0 +1,15 @@
+defaultPlacement: end
+enableVersioning: true
+handle: posts
+name: Posts
+propagationMethod: all
+siteSettings:
+  9448896a-1ea9-44c3-933b-41d3ee4c240f: # hrbdev
+    enabledByDefault: true
+    hasUrls: true
+    template: posts/_entry
+    uriFormat: 'posts/{slug}'
+structure:
+  maxLevels: null
+  uid: b9e62fa6-4248-4bd6-9e32-a7868fcfd5e8
+type: structure

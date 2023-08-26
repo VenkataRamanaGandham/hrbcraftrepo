@@ -1,0 +1,19 @@
+columnSuffix: tckhrwve
+contentColumnType: text
+fieldGroup: df6ced21-7500-4eae-b7ba-bd0668a28801 # BlogPosts
+handle: postTitle
+instructions: null
+name: PostTitle
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

@@ -1,0 +1,9 @@
+siteUid: null
+sortOrder: 2
+template: entryDetails
+uriParts:
+  - post/id/
+  -
+    - number
+    - \d+
+uriPattern: 'post/id/<number:\d+>'
